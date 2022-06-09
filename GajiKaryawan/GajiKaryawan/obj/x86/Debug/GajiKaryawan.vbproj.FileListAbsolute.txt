@@ -1,0 +1,9 @@
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\bin\Debug\GajiKaryawan.exe
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\bin\Debug\GajiKaryawan.pdb
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\bin\Debug\GajiKaryawan.xml
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\obj\x86\Debug\GajiKaryawan.vbproj.GenerateResource.Cache
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\obj\x86\Debug\GajiKaryawan.exe
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\obj\x86\Debug\GajiKaryawan.xml
+C:\Users\Kayla Nindya Putri\OneDrive\Dokumen\Visual Studio 2010\Projects\GajiKaryawan\GajiKaryawan\obj\x86\Debug\GajiKaryawan.pdb
